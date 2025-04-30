@@ -1,0 +1,8 @@
+4 ^ 5 is 1024
+hi is not an integer
+hi is not a positive integer
+-2 ^ 5 is -32
+-8 is not a positive integer
+There are not two integers on this line.
+There are not two integers on this line.
+There are not two integers on this line.
